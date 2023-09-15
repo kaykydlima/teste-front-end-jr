@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#rocket-Tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-iniciando-o-projeto">Iniciando o Projeto</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-iniciando-o-projeto">Iniciando o Projeto</a> &#xa0;
 </p>
 
 <br>
